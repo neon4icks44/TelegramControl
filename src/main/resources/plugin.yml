@@ -1,6 +1,0 @@
-name: TelegramControl
-version: '${project.version}'
-main: ru.neostudio.telegramcontrol.TelegramControl
-api-version: 1.16
-author: NeoStudio
-description: Управление Minecraft сервером через Telegram-бота
