@@ -128,4 +128,8 @@ The plugin is perfect for beginners and experienced admins, with simple setup an
 ---
 
 **Made with 💖 by Neon4ick**  
+<<<<<<< HEAD
 *Manage your server with pleasure! 😺*
+=======
+*Manage your server with pleasure! 😺*
+>>>>>>> a74ca4a957f04679a577575af23632567c915eb3
