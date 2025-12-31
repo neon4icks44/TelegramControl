@@ -1,0 +1,18 @@
+name: TelegramControl
+version: '${project.version}'
+main: ru.neostudio.telegramcontrol.TelegramControl
+api-version: 1.16
+author: Neon4icks
+description: Manage your Minecraft server via Telegram bot
+
+commands:
+  tgcontrol:
+    description: Reload TelegramControl plugin
+    usage: /tgcontrol reload
+    permission: tgcontrol.reload
+    permission-message: You don't have permission.
+
+permissions:
+  tgcontrol.reload:
+    description: Allows reloading the plugin
+    default: op

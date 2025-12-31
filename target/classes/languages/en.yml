@@ -1,0 +1,28 @@
+welcome: "Welcome! Please authorize with /login"
+login_prompt: "Enter login:"
+password_prompt: "Enter password:"
+auth_success: "Authorization successful! Choose an action:"
+auth_failed: "Invalid login or password. Try again: /login"
+logged_out: "You have logged out. Authorize again: /login"
+
+status_button: "Server Status"
+console_button: "Console"
+command_button: "Command"
+logout_button: "Logout"
+
+status_title: "Server Status:"
+online: "Online"
+version: "Version"
+tps: "TPS"
+tps_unavailable: "Unavailable"
+
+command_forbidden: "This command is forbidden via bot."
+command_executed: "Command executed"
+command_output: "Console output:"
+no_output: "Command executed, but no output."
+command_must_start_slash: "Command must start with /."
+invalid_action: "Choose an action from the keyboard or send a command starting with /."
+
+enter_command: "Enter command (start with /):"
+
+startup_notification: "Plugin started!\nName: %s\nVersion: %s\nServer: %s"
